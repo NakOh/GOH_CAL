@@ -1,0 +1,3348 @@
+{
+  "Items": [
+    {
+      "name": "pandora",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 2200,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 14
+            },
+            {
+              "attack": 0,
+              "health": 3000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 19
+            },
+            {
+              "attack": 4000,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            },
+            {
+              "attack": 5500,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 32
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 700,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 1200,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 1900,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 2800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 20
+            },
+            {
+              "attack": 0,
+              "health": 4000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 400,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 1400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 2500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 20
+            },
+            {
+              "attack": 0,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "yoomira",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 0
+            },
+            {
+              "attack": 210,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 16,
+              "dodge": 0
+            },
+            {
+              "attack": 300,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 22,
+              "dodge": 0
+            },
+            {
+              "attack": 420,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 29,
+              "dodge": 0
+            },
+            {
+              "attack": 600,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 37,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 0
+            },
+            {
+              "attack": 140,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 0
+            },
+            {
+              "attack": 200,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 0
+            },
+            {
+              "attack": 420,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 29,
+              "dodge": 0
+            },
+            {
+              "attack": 600,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 37,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 0
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 0
+            },
+            {
+              "attack": 180,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 0
+            },
+            {
+              "attack": 250,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 0
+            },
+            {
+              "attack": 320,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 18,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "baek",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 10
+            },
+            {
+              "attack": 210,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 14
+            },
+            {
+              "attack": 300,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 19
+            },
+            {
+              "attack": 420,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            },
+            {
+              "attack": 600,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 32
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 140,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 200,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 300,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 13
+            },
+            {
+              "attack": 450,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 18
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "T",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 2
+            },
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 3
+            },
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 8,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 6
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 0,
+              "ciritical": 2,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 2
+            },
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 3
+            },
+            {
+              "attack": 70,
+              "health": 0,
+              "ciritical": 6,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "P",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 14,
+              "dodge": 11
+            },
+            {
+              "attack": 180,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 19,
+              "dodge": 15
+            },
+            {
+              "attack": 250,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 25,
+              "dodge": 20
+            },
+            {
+              "attack": 320,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 32,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 4
+            },
+            {
+              "attack": 90,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 6
+            },
+            {
+              "attack": 140,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 9
+            },
+            {
+              "attack": 190,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 20,
+              "dodge": 13
+            },
+            {
+              "attack": 250,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 25,
+              "dodge": 18
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BakMooJin",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 2
+            },
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 3
+            },
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 8,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 6
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 0,
+              "ciritical": 2,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 2
+            },
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 3
+            },
+            {
+              "attack": 70,
+              "health": 0,
+              "ciritical": 6,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "YonNyu",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 10,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 10,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 11,
+              "critical_damage": 111,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 12
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 12,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 12
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 13,
+              "critical_damage": 13,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 13
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 15,
+              "critical_damage": 15,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 15
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 8,
+              "critical_damage": 8,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 9,
+              "critical_damage": 9,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 10,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 11,
+              "critical_damage": 11,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 12,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 12
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Q",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 2
+            },
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 3
+            },
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 8,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 6
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 0,
+              "ciritical": 2,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 2
+            },
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 3
+            },
+            {
+              "attack": 70,
+              "health": 0,
+              "ciritical": 6,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 2
+            },
+            {
+              "attack": 80,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 3
+            },
+            {
+              "attack": 100,
+              "health": 0,
+              "ciritical": 8,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 6
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 0,
+              "ciritical": 2,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 2
+            },
+            {
+              "attack": 60,
+              "health": 0,
+              "ciritical": 4,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 3
+            },
+            {
+              "attack": 70,
+              "health": 0,
+              "ciritical": 6,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 120,
+              "health": 0,
+              "ciritical": 10,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 8
+            },
+            {
+              "attack": 150,
+              "health": 0,
+              "ciritical": 12,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 10
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 0,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SangManDuck",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 60,
+              "health": 1400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 10
+            },
+            {
+              "attack": 100,
+              "health": 2300,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 14
+            },
+            {
+              "attack": 160,
+              "health": 3000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 19
+            },
+            {
+              "attack": 230,
+              "health": 4000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            },
+            {
+              "attack": 320,
+              "health": 5500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 32
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 50,
+              "health": 700,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 80,
+              "health": 1200,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 120,
+              "health": 1900,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 15
+            },
+            {
+              "attack": 180,
+              "health": 2800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 20
+            },
+            {
+              "attack": 170,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 40,
+              "health": 400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 60,
+              "health": 800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 90,
+              "health": 1400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 15
+            },
+            {
+              "attack": 130,
+              "health": 2500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 20
+            },
+            {
+              "attack": 170,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AhRooDoon",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 100,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 6
+            },
+            {
+              "attack": 180,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 11
+            },
+            {
+              "attack": 260,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 16
+            },
+            {
+              "attack": 340,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 21
+            },
+            {
+              "attack": 400,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 70,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 4
+            },
+            {
+              "attack": 126,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 8
+            },
+            {
+              "attack": 182,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 11
+            },
+            {
+              "attack": 238,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 15
+            },
+            {
+              "attack": 280,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 18
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 49,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 3
+            },
+            {
+              "attack": 88,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 6
+            },
+            {
+              "attack": 127,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 8
+            },
+            {
+              "attack": 167,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 10
+            },
+            {
+              "attack": 196,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "yohan",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 100,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 0
+            },
+            {
+              "attack": 180,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 0
+            },
+            {
+              "attack": 260,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 0
+            },
+            {
+              "attack": 340,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 0
+            },
+            {
+              "attack": 400,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 70,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 0
+            },
+            {
+              "attack": 126,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 0
+            },
+            {
+              "attack": 182,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 0
+            },
+            {
+              "attack": 238,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 0
+            },
+            {
+              "attack": 280,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 49,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 0
+            },
+            {
+              "attack": 88,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 0
+            },
+            {
+              "attack": 127,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 0
+            },
+            {
+              "attack": 167,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 0
+            },
+            {
+              "attack": 196,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "JunJaeNie",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1750,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 3150,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 4550,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 0,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 4550,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 13,
+              "hit": 0,
+              "dodge": 13
+            },
+            {
+              "attack": 0,
+              "health": 7000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 15,
+              "hit": 0,
+              "dodge": 15
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1225,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 0,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 2205,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 0,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 3185,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 4165,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 9,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 4900,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 0,
+              "dodge": 11
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 858,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 2,
+              "hit": 0,
+              "dodge": 2
+            },
+            {
+              "attack": 0,
+              "health": 1544,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 0,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 2230,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 0,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 2916,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 3430,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KimDooSick",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 75,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 6
+            },
+            {
+              "attack": 135,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 11
+            },
+            {
+              "attack": 195,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 16
+            },
+            {
+              "attack": 255,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 17,
+              "dodge": 21
+            },
+            {
+              "attack": 300,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 20,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 53,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 95,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 8
+            },
+            {
+              "attack": 137,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 11
+            },
+            {
+              "attack": 179,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 15
+            },
+            {
+              "attack": 210,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 14,
+              "dodge": 18
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 37,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 2,
+              "dodge": 3
+            },
+            {
+              "attack": 66,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 6
+            },
+            {
+              "attack": 96,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 6,
+              "dodge": 8
+            },
+            {
+              "attack": 125,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 10
+            },
+            {
+              "attack": 147,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alex",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1500,
+              "ciritical": 0,
+              "critical_damage": 4,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 2700,
+              "ciritical": 0,
+              "critical_damage": 7,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 3900,
+              "ciritical": 0,
+              "critical_damage": 10,
+              "ciritical_res": 0,
+              "hit": 18,
+              "dodge": 12
+            },
+            {
+              "attack": 0,
+              "health": 5100,
+              "ciritical": 0,
+              "critical_damage": 13,
+              "ciritical_res": 0,
+              "hit": 23,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 6000,
+              "ciritical": 0,
+              "critical_damage": 15,
+              "ciritical_res": 0,
+              "hit": 27,
+              "dodge": 18
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1050,
+              "ciritical": 0,
+              "critical_damage": 3,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 1890,
+              "ciritical": 0,
+              "critical_damage": 5,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 2730,
+              "ciritical": 0,
+              "critical_damage": 7,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 3570,
+              "ciritical": 0,
+              "critical_damage": 9,
+              "ciritical_res": 0,
+              "hit": 16,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 4200,
+              "ciritical": 0,
+              "critical_damage": 11,
+              "ciritical_res": 0,
+              "hit": 19,
+              "dodge": 13
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 735,
+              "ciritical": 0,
+              "critical_damage": 2,
+              "ciritical_res": 0,
+              "hit": 3,
+              "dodge": 2
+            },
+            {
+              "attack": 0,
+              "health": 1323,
+              "ciritical": 0,
+              "critical_damage": 3,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 1911,
+              "ciritical": 0,
+              "critical_damage": 5,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 2499,
+              "ciritical": 0,
+              "critical_damage": 6,
+              "ciritical_res": 0,
+              "hit": 11,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 2940,
+              "ciritical": 0,
+              "critical_damage": 7,
+              "ciritical_res": 0,
+              "hit": 13,
+              "dodge": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "America",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 8,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 2700,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 14,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 3900,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 20,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 5100,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 26,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 6000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 30,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1050,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 5,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 1890,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 9,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 2730,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 14,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 3570,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 18,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 4200,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 21,
+              "dodge": 0
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 735,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 4,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 1323,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 7,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 1911,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 10,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 2499,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 12,
+              "dodge": 0
+            },
+            {
+              "attack": 0,
+              "health": 2940,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 0,
+              "hit": 15,
+              "dodge": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beach",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 8,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 1800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 14,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 2600,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 16,
+              "hit": 20,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 3400,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 21,
+              "hit": 26,
+              "dodge": 20
+            },
+            {
+              "attack": 0,
+              "health": 4000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 25,
+              "hit": 30,
+              "dodge": 23
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 700,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 5,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1260,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 8,
+              "hit": 9,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 1820,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 14,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 2380,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 15,
+              "hit": 18,
+              "dodge": 14
+            },
+            {
+              "attack": 0,
+              "health": 2800,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 18,
+              "hit": 21,
+              "dodge": 16
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 490,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 4,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 882,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 4,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 1274,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 8,
+              "hit": 10,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 1666,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 12,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 1960,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 12,
+              "hit": 15,
+              "dodge": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TheKing",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 2700,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 16
+            },
+            {
+              "attack": 0,
+              "health": 3900,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 0,
+              "dodge": 23
+            },
+            {
+              "attack": 0,
+              "health": 5100,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 13,
+              "hit": 0,
+              "dodge": 30
+            },
+            {
+              "attack": 0,
+              "health": 6000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 15,
+              "hit": 0,
+              "dodge": 35
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1050,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 1890,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 2730,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 16
+            },
+            {
+              "attack": 0,
+              "health": 3570,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 9,
+              "hit": 0,
+              "dodge": 21
+            },
+            {
+              "attack": 0,
+              "health": 4200,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 0,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 735,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 2,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1323,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 1911,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 0,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 2499,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 0,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 2940,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 0,
+              "dodge": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SaeTurn",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 0,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 9,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 13,
+              "hit": 0,
+              "dodge": 13
+            },
+            {
+              "attack": 0,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 17,
+              "hit": 0,
+              "dodge": 17
+            },
+            {
+              "attack": 0,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 20,
+              "hit": 0,
+              "dodge": 20
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 9,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 12,
+              "hit": 0,
+              "dodge": 12
+            },
+            {
+              "attack": 0,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 14,
+              "hit": 0,
+              "dodge": 14
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 2,
+              "hit": 0,
+              "dodge": 2
+            },
+            {
+              "attack": 0,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 0,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 8,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 0,
+              "dodge": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PakIllPyho",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 7,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 12,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 18,
+              "dodge": 10
+            },
+            {
+              "attack": 0,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 13,
+              "hit": 23,
+              "dodge": 13
+            },
+            {
+              "attack": 0,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 15,
+              "hit": 27,
+              "dodge": 15
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 7,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 9,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 12,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 9,
+              "hit": 16,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 19,
+              "dodge": 11
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 2,
+              "hit": 3,
+              "dodge": 2
+            },
+            {
+              "attack": 0,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 6,
+              "dodge": 3
+            },
+            {
+              "attack": 0,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 5,
+              "hit": 9,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 11,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 7,
+              "hit": 13,
+              "dodge": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RoSiNanTae",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 750,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 8,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 1350,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 8,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 1950,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 16,
+              "hit": 20,
+              "dodge": 23
+            },
+            {
+              "attack": 0,
+              "health": 2550,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 21,
+              "hit": 26,
+              "dodge": 30
+            },
+            {
+              "attack": 0,
+              "health": 3000,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 25,
+              "hit": 30,
+              "dodge": 35
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 525,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 4,
+              "hit": 5,
+              "dodge": 6
+            },
+            {
+              "attack": 0,
+              "health": 945,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 8,
+              "hit": 9,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 1365,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 11,
+              "hit": 14,
+              "dodge": 16
+            },
+            {
+              "attack": 0,
+              "health": 1785,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 15,
+              "hit": 18,
+              "dodge": 21
+            },
+            {
+              "attack": 0,
+              "health": 2100,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 18,
+              "hit": 21,
+              "dodge": 25
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 368,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 3,
+              "hit": 4,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 662,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 6,
+              "hit": 7,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 956,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 8,
+              "hit": 10,
+              "dodge": 11
+            },
+            {
+              "attack": 0,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 10,
+              "hit": 12,
+              "dodge": 15
+            },
+            {
+              "attack": 0,
+              "health": 1470,
+              "ciritical": 0,
+              "critical_damage": 0,
+              "ciritical_res": 12,
+              "hit": 15,
+              "dodge": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SeoHanRyang",
+      "grade": [
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 1250,
+              "ciritical": 0,
+              "critical_damage": 3,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 8
+            },
+            {
+              "attack": 0,
+              "health": 2250,
+              "ciritical": 0,
+              "critical_damage": 5,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 14
+            },
+            {
+              "attack": 0,
+              "health": 3250,
+              "ciritical": 0,
+              "critical_damage": 7,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 20
+            },
+            {
+              "attack": 0,
+              "health": 4250,
+              "ciritical": 0,
+              "critical_damage": 9,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 26
+            },
+            {
+              "attack": 0,
+              "health": 5000,
+              "ciritical": 0,
+              "critical_damage": 10,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 30
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 875,
+              "ciritical": 0,
+              "critical_damage": 2,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 5
+            },
+            {
+              "attack": 0,
+              "health": 1575,
+              "ciritical": 0,
+              "critical_damage": 3,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 2275,
+              "ciritical": 0,
+              "critical_damage": 5,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 14
+            },
+            {
+              "attack": 0,
+              "health": 2975,
+              "ciritical": 0,
+              "critical_damage": 6,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 18
+            },
+            {
+              "attack": 0,
+              "health": 3500,
+              "ciritical": 0,
+              "critical_damage": 7,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 21
+            }
+          ]
+        },
+        {
+          "reinforce": [
+            {
+              "attack": 0,
+              "health": 613,
+              "ciritical": 0,
+              "critical_damage": 1,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 4
+            },
+            {
+              "attack": 0,
+              "health": 1103,
+              "ciritical": 0,
+              "critical_damage": 2,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 7
+            },
+            {
+              "attack": 0,
+              "health": 1593,
+              "ciritical": 0,
+              "critical_damage": 3,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 9
+            },
+            {
+              "attack": 0,
+              "health": 2083,
+              "ciritical": 0,
+              "critical_damage": 4,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 12
+            },
+            {
+              "attack": 0,
+              "health": 2450,
+              "ciritical": 0,
+              "critical_damage": 5,
+              "ciritical_res": 0,
+              "hit": 0,
+              "dodge": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
