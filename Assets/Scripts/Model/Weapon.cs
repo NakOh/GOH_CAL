@@ -11,3 +11,4 @@ public class Weapon {
         grade = new Grade[3];
     }
 }
+    

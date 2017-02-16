@@ -27,7 +27,6 @@ public class DataController : MonoBehaviour {
         shield = JsonHelper.FromJson<Shield>(shieldJson.text);
         TextAsset shoesJson = Resources.Load("JsonData/shoes") as TextAsset;
         shoes = JsonHelper.FromJson<Shoes>(shoesJson.text);
-
     }
 
 
